@@ -32,3 +32,4 @@ We offer **complete free access** to all platform data through our comprehensive
 ---
 
 **Repository**: [github.com/R1cko27/ruby](https://github.com/R1cko27/ruby)
+**Page**: [s2ze.com](https://s2ze.com)
