@@ -1,4 +1,4 @@
-# 🧪 Source2 Zombie Escape Analytics Platform
+# Source2 Zombie Escape Analytics Platform
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -6,7 +6,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML+CSS](https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white)
 ## 📊 Overview
 
 S2ZE is a comprehensive analytics platform designed specifically for Counter-Strike 2 Zombie Escape mode. The platform provides deep insights into map performance, player behavior, and server statistics across all participating servers in real-time.
@@ -60,5 +61,3 @@ We offer **complete free access** to all platform data through our comprehensive
 - **Server status monitoring**
 - **Player activity analytics**
 - **Rate-limited free access** for all developers
-
-## 🚀 Quick Start
