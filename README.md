@@ -12,7 +12,7 @@
 
 S2ZE is a comprehensive analytics platform designed specifically for Counter-Strike 2 Zombie Escape mode. The platform provides deep insights into map performance, player behavior, and server statistics across all participating servers in real-time.
 
-![Main Dashboard](https://s2ze.com/image/main.png)
+![Main Dashboard](https://s2ze.com/image/github_1.jpg)
 
 ## ✨ Key Features
 
@@ -30,7 +30,7 @@ S2ZE is a comprehensive analytics platform designed specifically for Counter-Str
 - **Historical data analysis** for strategic planning
 
 ### 🎯 Smart Recommendation System
-![Recommendation System](https://s2ze.com/image/my-wave.png)
+![Recommendation System](https://s2ze.com/image/github_2.jpg)
 
 Our intelligent recommendation engine uses sophisticated algorithms to:
 - **Learn individual player preferences**
